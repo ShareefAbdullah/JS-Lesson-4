@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    text-align: center;
+}
+div {
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+button {
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+table {
+    width: 450px;
+    margin: auto;
+    border: 1px solid black;
+}
+td {
+    width: 150px;
+    border: 1px solid black; 
+}
+img {
+    display: block;
+    margin: auto;
+}
+input {
+    display: block;
+    margin: auto;
+}
+.blue {
+    background-color: blue;
+}
